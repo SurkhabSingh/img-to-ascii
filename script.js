@@ -1,7 +1,7 @@
 var canvas, ctx, img, result, detail, int, prog;
 
 var char = ["@","#","&","6","M","€","E","$","%","K","2","g","=","+","y","m","n","o","u","°",";","*",
-":","\'","-","."];
+":","\'","-",".","\u2002"];
 
 
 var launch = function() {
